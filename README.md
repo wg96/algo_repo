@@ -1,5 +1,7 @@
 ## 题库
 
+### 哈希表
+[lc01-两数之和](./notes/solution/leetcode/1-200/twosum.md)
 
 
 
